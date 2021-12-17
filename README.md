@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arslanmushtaq007
 - 👀 I’m interested in new technologies like python development, cybersecurity.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at arslannmushtaq82@gmail.com
 
 <!---
